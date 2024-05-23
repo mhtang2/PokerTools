@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "name": "ranges",
+    "data": [
+        {
+            "path": [
+                "Calling RFI"
+            ],
+            "isGroup": true
+        },
+        {
+            "path": [
+                "Calling RFI",
+                "Random range"
+            ],
+            "isGroup": false,
+            "value": "88-77:0.5,Q7s,J7s-J6s,T8s,T6s-T5s,98s,96s-94s,85s-84s,73s+"
+        }
+    ]
+}
